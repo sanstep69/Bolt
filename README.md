@@ -1,5 +1,8 @@
 # Bolt
 Android Tweak
+
+Make your phone as fast as lightning!
+
 Feature :
 - Boost system
 - Fstrim
